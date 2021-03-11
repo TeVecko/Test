@@ -1,3 +1,3 @@
 # Test
 
-Můj první repozitář
+Můj první repozitář na GitHub
